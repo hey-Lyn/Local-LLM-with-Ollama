@@ -1,3 +1,6 @@
+# This is just a simple code that will grow into something bigger. 
+# Updates and documentation in progress.
+
 import ollama
 
 if __name__ == '__main__':
